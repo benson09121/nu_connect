@@ -15,6 +15,10 @@
     <div class="container" style="text-align: center; margin-top: 20%;">
         <h1 style="font-size: 4em;">Coming Soon</h1>
         <div class="loader" style="margin-top: 20px;"></div>
+        <div style="margin-top: 20px;">
+            <a href="/privacy-policy" class="button">Privacy Policy</a>
+            <a href="/terms-and-conditions" class="button">Terms and Conditions</a>
+        </div>
     </div>
 
     <style>
@@ -27,6 +31,23 @@
             -webkit-animation: spin 2s linear infinite; /* Safari */
             animation: spin 2s linear infinite;
             margin: 0 auto;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 1em;
+            color: #fff;
+            background-color: #3498db;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: #2980b9;
         }
 
         /* Safari */
