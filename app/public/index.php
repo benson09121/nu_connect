@@ -16,8 +16,8 @@
         <h1 style="font-size: 4em;">Coming Soon</h1>
         <div class="loader" style="margin-top: 20px;"></div>
         <div style="margin-top: 20px;">
-            <a href="/privacy-policy" class="button">Privacy Policy</a>
-            <a href="/terms-and-conditions" class="button">Terms and Conditions</a>
+            <a href="/privacy-policy.php" class="button">Privacy Policy</a>
+            <a href="/terms-and-conditions.php" class="button">Terms and Conditions</a>
         </div>
     </div>
 
